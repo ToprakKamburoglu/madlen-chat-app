@@ -187,7 +187,7 @@ docker-compose up -d
 ### API Documentation
 
 **Interactive API Docs (Swagger UI)**
-![API Documentation](./screenshots/docs.png)
+![API Documentation](./screenshots/api-docs.png)
 *Auto-generated interactive API documentation with all endpoints*
 
 ### Monitoring
