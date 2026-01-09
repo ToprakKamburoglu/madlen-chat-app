@@ -546,18 +546,3 @@ Key dependencies:
 
 See `package.json` for complete list.
 
-## Contributing
-
-This is a case study project. Code follows:
-- React best practices
-- TypeScript conventions
-- Component composition patterns
-- Clean code principles
-
-## License
-
-MIT License
-
----
-
-For more information, see the main project README.
