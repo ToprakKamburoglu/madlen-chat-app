@@ -181,7 +181,7 @@ docker-compose up -d
 ### Database
 
 **SQLite Database**
-![Database](./screenshots/database.png)
+![Database](./screenshots/sqllite-database.png)
 *Chat sessions and messages stored in SQLite database*
 
 ### API Documentation
