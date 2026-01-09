@@ -258,29 +258,29 @@ User-friendly error messages throughout the application with proper logging and 
 ## Project Evaluation
 
 ### Developer Experience
-✅ One-command setup with clear documentation  
-✅ Cross-platform support (Windows, Mac, Linux)  
-✅ Hot reload for rapid development  
-✅ Docker Compose for consistent environments  
+-  One-command setup with clear documentation  
+-  Cross-platform support (Windows, Mac, Linux)  
+-  Hot reload for rapid development  
+-  Docker Compose for consistent environments  
 
 ### User Experience
-✅ Professional, intuitive interface  
-✅ Real-time feedback (loading, errors)  
-✅ Smooth animations and transitions  
-✅ Responsive design  
+-  Professional, intuitive interface  
+-  Real-time feedback (loading, errors)  
+-  Smooth animations and transitions  
+-  Responsive design  
 
 ### Code Quality
-✅ TypeScript + Pydantic for type safety  
-✅ Clean separation of concerns  
-✅ Comprehensive error handling  
-✅ Async/await throughout  
+-  TypeScript + Pydantic for type safety  
+-  Clean separation of concerns  
+-  Comprehensive error handling  
+-  Async/await throughout  
 
 ### Additional Features
-✅ Smart free model filtering  
-✅ Vision model detection  
-✅ Model information display  
-✅ Image persistence in database  
-✅ Optimistic UI updates  
+-  Smart free model filtering  
+-  Vision model detection  
+-  Model information display  
+-  Image persistence in database  
+-  Optimistic UI updates  
 
 ## Environment Configuration
 
