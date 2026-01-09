@@ -2,8 +2,9 @@
 
 <div align="center">
   <img src="./frontend/public/logo/logo.jpg" alt="Madlen Logo" height="150"/>
-  <img src="./frontend/public/logo/logo-1.png" alt="Madlen Character 1" height="150"/>
-  <img src="./frontend/public/logo/logo-2.png" alt="Madlen Character 2" height="150"/>
+  <img src="./frontend/public/logo/logo-2.png" alt="Madlen Character 1" height="150"/>
+  <img src="./frontend/public/logo/logo-1.png" alt="Madlen Character 2" height="150"/>
+  <img src="./frontend/public/logo/logo-3.png" alt="Madlen Character 3" height="150"/>
 </div>
 <br/>
 
