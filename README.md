@@ -357,10 +357,6 @@ docker-compose restart
 - Voice input/output
 - Custom model parameters
 
-## Contributing
-
-This is a case study project demonstrating modern full-stack development practices. Contributions welcome for educational purposes.
-
 ## License
 
 MIT License - See [LICENSE](./LICENSE) file for details
