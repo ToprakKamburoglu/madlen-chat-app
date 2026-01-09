@@ -1,8 +1,11 @@
 # Madlen AI Chat
 
-![Madlen AI Chat](./frontend/public/logo/logo.jpg)
-![Madlen AI Chat](./frontend/public/logo/logo-1.png)
-![Madlen AI Chat](./frontend/public/logo/logo-2.png)
+<div align="center">
+  <img src="./frontend/public/logo/logo.jpg" alt="Madlen Logo" height="150"/>
+  <img src="./frontend/public/logo/logo-1.png" alt="Madlen Character 1" height="150"/>
+  <img src="./frontend/public/logo/logo-2.png" alt="Madlen Character 2" height="150"/>
+</div>
+<br/>
 
 A production-ready AI chat application with OpenRouter integration, featuring multiple free AI models, multi-modal support, and comprehensive monitoring with OpenTelemetry and Jaeger.
 
