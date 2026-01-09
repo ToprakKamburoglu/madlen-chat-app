@@ -357,6 +357,6 @@ This is a case study project demonstrating modern full-stack development practic
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License - See [LICENSE](./LICENSE) file for details
 
 **Developed as a case study for Madlen - demonstrating production-ready AI integration, comprehensive monitoring, and modern full-stack architecture.**
