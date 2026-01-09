@@ -181,8 +181,14 @@ docker-compose up -d
 ### Database
 
 **SQLite Database**
-![Database](./screenshots/sqllite-database.png)
+![Database](./screenshots/database.png)
 *Chat sessions and messages stored in SQLite database*
+
+### API Documentation
+
+**Interactive API Docs (Swagger UI)**
+![API Documentation](./screenshots/api-docs.png)
+*Auto-generated interactive API documentation with all endpoints*
 
 ### Monitoring
 
@@ -252,22 +258,29 @@ User-friendly error messages throughout the application with proper logging and 
 ## Project Evaluation
 
 ### Developer Experience
-- One-command setup with clear documentation  
-- Cross-platform support (Windows, Mac, Linux)  
-- Hot reload for rapid development  
-- Docker Compose for consistent environments  
+✅ One-command setup with clear documentation  
+✅ Cross-platform support (Windows, Mac, Linux)  
+✅ Hot reload for rapid development  
+✅ Docker Compose for consistent environments  
 
 ### User Experience
-- Professional, intuitive interface  
-- Real-time feedback (loading, errors)  
-- Smooth animations and transitions  
-- Responsive design  
+✅ Professional, intuitive interface  
+✅ Real-time feedback (loading, errors)  
+✅ Smooth animations and transitions  
+✅ Responsive design  
 
 ### Code Quality
-- TypeScript + Pydantic for type safety  
-- Clean separation of concerns  
-- Comprehensive error handling  
-- Async/await throughout    
+✅ TypeScript + Pydantic for type safety  
+✅ Clean separation of concerns  
+✅ Comprehensive error handling  
+✅ Async/await throughout  
+
+### Additional Features
+✅ Smart free model filtering  
+✅ Vision model detection  
+✅ Model information display  
+✅ Image persistence in database  
+✅ Optimistic UI updates  
 
 ## Environment Configuration
 
@@ -337,6 +350,10 @@ docker-compose restart
 - Streaming responses
 - Voice input/output
 - Custom model parameters
+
+## Contributing
+
+This is a case study project demonstrating modern full-stack development practices. Contributions welcome for educational purposes.
 
 ## License
 
